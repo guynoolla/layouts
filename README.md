@@ -1,3 +1,3 @@
 # Projects with Html CSS JavaScript
 
-demo: https://gainulla.github.io/layouts/
+demo: https://guynoolla.github.io/layouts/
